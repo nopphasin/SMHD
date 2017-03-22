@@ -1,1 +1,1 @@
-# This The project of Smart Hydroponics 
+# The project of Smart Hydroponics 
