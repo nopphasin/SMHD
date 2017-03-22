@@ -8,7 +8,7 @@
 <div class="item">
 					<div class="row">
 						<div class="col-md-offset-2 col-md-8">
-							<img src="https://drive.google.com/file/d/0Bz8tngEBQXlGQ1EwNDd2NWNUa3c/view?usp=sharing" class="img-responsive img-circle" alt="testimonial img">
+							<img src="https://www.dropbox.com/s/vdjph82o4f3r19x/home-bg.jpg?dl=0" class="img-responsive img-circle" alt="testimonial img">
             </div></div></div>
 
 </center>
