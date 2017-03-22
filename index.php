@@ -1,3 +1,6 @@
+
+<center>
 <?php
-echo "Hello world.";
+echo "Welcome to Smart Hydroponics Gardening Kit";
 ?>
+</center>
