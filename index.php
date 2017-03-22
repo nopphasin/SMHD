@@ -1,13 +1,16 @@
 <html>
 <head>
+<script src="http://yecccmu-test.herokuapp.com/owl.carousel.css"></script>
 	<center>
   <br> </br>
   <br> </br>
 <h1><b>Welcome to Smart Hydroponics Gardening Kit !</b></h1>
   <br> </br>
    <br> </br>
+</center>
 </head>
 <body>
+	<center>
 	<section id="testimonial" class="parallax-section">
 	<div class="container">
 		<div class="row">
