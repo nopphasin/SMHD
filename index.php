@@ -19,7 +19,7 @@
 <div class="item">
 					<div class="row">
 						<div class="col-md-offset-2 col-md-8">
-							<img src="https://www.img.in.th/image/Cs27" border="0" class="img-responsive img-circle" alt="testimonial img">
+							<img src="https://www.img.in.th/images/9a420f6a04ec7250c5d65aceced6ddac.jpg" border="0" class="img-responsive img-circle" alt="testimonial img">
             </div></div></div>
 				</div>
 </section>
